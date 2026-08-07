@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.khandala.today.twa",
+        "sha256_cert_fingerprints": ["97:8F:24:4F:39:42:2E:70:9C:A6:6F:32:6A:E3:94:04:99:4C:C9:41:41:EC:9B:02:B7:B5:17:EC:E5:3C:16:6B"]
+      }
+    }]
